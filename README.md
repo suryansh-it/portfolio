@@ -1,6 +1,5 @@
 # Suryansh Sharma – Portfolio Website
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-netlify-badge/deploy-status)](https://app.netlify.com/sites/suryansharma-portfolio/deploys)
 
 🌐 Live Demo: https://suryansharma-portfolio.netlify.app/
 
