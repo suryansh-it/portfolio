@@ -25,6 +25,7 @@ const skillCategories = [
       "Next.js",
       "Django / Django REST Framework",
       "Flask",
+      "FastAPI",
       "Tailwind CSS",
       "Bootstrap",
       "Flutter",
